@@ -1,22 +1,24 @@
 ---
-layout: archive
+layout: default
 ---
 
-{{ content }}
-
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
-
-{% if paginator %}
-  {% assign posts = paginator.posts %}
-{% else %}
-  {% assign posts = site.posts %}
-{% endif %}
-
-{% assign entries_layout = page.entries_layout | default: 'list' %}
-<div class="entries-{{ entries_layout }}">
-  {% for post in posts %}
-    {% include archive-single.html type=entries_layout %}
-  {% endfor %}
+<div class="row g-5 mb-5">
+  <div class="col-md-6">
+    <h3 class="fw-bold">Research</h3>
+    {{ content }}
+  </div>
+  <div class="col-md-6">
+    <img src="{{ site.github.url }}/assets/img/home.jpg" alt="Home" width="100%">
+  </div>
 </div>
 
-{% include paginator.html %}
+{% include publications.html %}
+
+<div class="row g-5 mb-5">
+  <div class="col-md-12">
+    <h3 class="fw-bold border-bottom pb-3 mb-5">Updates</h3>
+    {% for post in site.posts %}
+      <p><a href="{{ site.github.url }}/{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %-d, %Y" }}</p>
+    {% endfor %}
+  </div>
+</div>
