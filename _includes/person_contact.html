@@ -1,0 +1,7 @@
+{%- assign person_id = include.person_id %}
+{%- assign person = site.data.people | where:"id",person_id | sample %}
+
+#### Contact
+
+- Email: [{{person.email}}](mailto:{{person.email}})
+- laboratory: {{person.laboratory}}

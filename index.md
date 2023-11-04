@@ -11,7 +11,7 @@ I am an Ph.D. Student (Integrated Program) in the [Department of Computer Scienc
 
 - Email: [{{site.data.basic.email}}](mailto:{{site.data.basic.email}})
 - Phone: {{site.data.basic.phone}}
-- Office: {{site.data.basic.office}}, {{site.data.basic.institution_address}}
+- Laboratory: {{site.data.basic.laboratory}}, {{site.data.basic.institution_address}}
 
 #### Education
 

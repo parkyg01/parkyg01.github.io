@@ -1,2 +1,2 @@
 commit & push
-bundle exec jeykyll serve
+bundle exec jekyll serve
