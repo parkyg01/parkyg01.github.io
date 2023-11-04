@@ -10,7 +10,6 @@ I am an Ph.D. Student (Integrated Program) in the [Department of Computer Scienc
 #### Contact
 
 - Email: [{{site.data.basic.email}}](mailto:{{site.data.basic.email}})
-- Bibliography: [DBLP](https://dblp.uni-trier.de/pid/123/2642-1.html), [Google Scholar](https://scholar.google.com/citations?user=1qw7AosAAAAJ&hl=en)
 - Phone: {{site.data.basic.phone}}
 - Office: {{site.data.basic.office}}, {{site.data.basic.institution_address}}
 
