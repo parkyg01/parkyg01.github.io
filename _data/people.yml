@@ -1,12 +1,9 @@
 - id: yonggon.park
   name: Yonggon Park
   email: yg.park@postech.ac.kr
-  # status: present
   role: Ph.D. Student (Integrated Course)
   image: assets/images/people/ygpark.jpg
   id: Room 4304, RIST 4,, POSTECH
-  # dblp_id: 2642-1.html
-  # scholar: 1qw7AosAAAA
   educations: [
     "[2020] B.S. in Computer Science. POSTECH."
   ]

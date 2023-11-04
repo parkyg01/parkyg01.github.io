@@ -22,4 +22,4 @@ I am an Ph.D. Student (Integrated Program) in the [Department of Computer Scienc
 #### Teaching Experience
 
 {% for section in site.data.experience %} 
-- {{section.position}}, {{section.course}}, {{section.institution}}, {{section.period}} {% endfor %}
+- {{section.position}}, {{section.institution}}, {{section.period}} {% endfor %}
