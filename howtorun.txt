@@ -1,0 +1,2 @@
+commit & push
+bundle exec jeykyll serve
