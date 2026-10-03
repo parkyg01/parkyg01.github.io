@@ -4,9 +4,7 @@ title: "Home"
 ---
 <img align="right" style="width: 30%; padding-left: 3%;" src="{{ site.github.url }}/assets/img/ygpark.jpg" alt="Yonggon Park">
 
-I am a Ph.D. student (Integrated Program) in the [Department of Computer Science and Engineering](https://cse.postech.ac.kr) at [POSTECH](https://www.postech.ac.kr), working with [Prof. Jisung Park](https://jisung-park.github.io/), who leads the [Computer Architecture and Operating Systems (CAOS) Lab](https://www.caos.postech.ac.kr/). Since March 2026, I have been a visiting intern at the [SAFARI Research Group](https://safari.ethz.ch/), ETH Zurich. I earned my B.S. degree in Computer Science from [POSTECH](https://www.postech.ac.kr).
-
-My research interests lie in storage systems, high-bandwidth flash memory (HBF), memory systems, computer architecture, system software, hardware & systems security, and operating systems. Currently, I am leading projects on **high-bandwidth flash memory (HBF)** and **physically unclonable functions (PUFs) that exploit NAND flash memory error characteristics**.
+I am an Ph.D. Student (Integrated Program) in the [Department of Computer Science and Engineering](https://cse.postech.ac.kr) at [POSTECH](https://www.postech.ac.kr), working with [Prof. Jisung Park](https://jisung-park.github.io/) who leads the the [Computer Architecture and Operating Systems (CAOS) Office](https://www.caos.postech.ac.kr/). I earned my B.S.E. degree in Computer Science and Engineering from [POSTECH](https://www.postech.ac.kr). My research interests lie in NAND flash-based storage systems, computer architecture, and memory systems.
 
 <br>
 #### Contact
@@ -30,14 +28,3 @@ My research interests lie in storage systems, high-bandwidth flash memory (HBF),
 
 {% for section in site.data.experience %} 
 - {{section.position}}, {{section.institution}}, {{section.period}} {% endfor %}
-
-#### Honors and Awards
-
-- **Excellence Award**, 17th ETnews ICT Paper Contest, 2025
-  - "Unlocking Tiny-Read Performance of Modern SSDs via Repurposed Locally Correctable Codes," Hyunuk Cho, Seunghun Oh, <ins>**Yonggon Park**</ins>, Sangbu Yoon, Jaeyong Lee, and Donghyuk Kim
-- **Outstanding Research Project Award**, Research Project I Course, POSTECH, 2022
-
-#### Fellowships & Grants
-
-- **BK21 Overseas Training Scholarship**, 2026.03 -- 2027.02
-- **National Research Foundation of Korea (NRF) Research Grant for M.S. Students**, 2024.07 -- 2025.06
