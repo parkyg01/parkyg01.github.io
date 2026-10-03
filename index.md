@@ -22,7 +22,6 @@ I am an Ph.D. Student in the [Department of Computer Science Engineering](https:
 
 - Research Intern (In-Person), SAFARI Research Group, ETH Zurich, Mar 2026 -- Present
 - Research Intern (Remote), SAFARI Research Group, ETH Zurich, Jan 2024 -- Jan 2025
-- Intern, Autocrypt, Seoul, Korea, Jun 2022 -- Sep 2022 (Automotive Security, Bluetooth Protocol Fuzzing)
 
 #### Teaching Experience
 
