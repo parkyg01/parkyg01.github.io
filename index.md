@@ -4,7 +4,7 @@ title: "Home"
 ---
 <img align="right" style="width: 30%; padding-left: 3%;" src="{{ site.github.url }}/assets/img/ygpark.jpg" alt="Yonggon Park">
 
-I am an Ph.D. Student (Integrated Program) in the [Department of Computer Science and Engineering](https://cse.postech.ac.kr) at [POSTECH](https://www.postech.ac.kr), working with [Prof. Jisung Park](https://jisung-park.github.io/) who leads the the [Computer Architecture and Operating Systems (CAOS) Office](https://www.caos.postech.ac.kr/). I earned my B.S.E. degree in Computer Science and Engineering from [POSTECH](https://www.postech.ac.kr). My research interests lie in NAND flash-based storage systems, computer architecture, and memory systems.
+I am an Ph.D. Student (Integrated Program) in the [Department of Computer Science and Engineering](https://cse.postech.ac.kr) at [POSTECH](https://www.postech.ac.kr), working with [Prof. Jisung Park](https://jisung-park.github.io/) who leads the the [Computer Architecture and Operating Systems (CAOS) Office](https://www.caos.postech.ac.kr/). I earned my B.S. degree in Computer Science Engineering from [POSTECH](https://www.postech.ac.kr). My research interests lie in NAND flash-based storage systems, computer architecture, and memory systems.
 
 <br>
 #### Contact
@@ -16,7 +16,7 @@ I am an Ph.D. Student (Integrated Program) in the [Department of Computer Scienc
 #### Education
 
 - Ph.D. (Integrated Program) in Computer Science, POSTECH, Sep 2023 -- Present (Advisor: Prof. Jisung Park)
-- B.S. in Computer Science, POSTECH, Mar 2020 -- Jul 2023
+- B.S. in Computer Science Engineering, POSTECH, Mar 2020 -- Jul 2023
 
 #### Research Experience
 
