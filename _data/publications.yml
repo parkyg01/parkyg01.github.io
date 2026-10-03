@@ -1,8 +1,26 @@
+- title: 'Exploring High-Bandwidth Flash for Modern LLM Inference: Opportunities and Challenges'
+  authors: Dowon Son, <ins>**Yonggon Park**</ins>, Hyunuk Cho, Hyungkyu Ham, Onur Mutlu, Sungjin Lee, Gwangsun Kim, and Jisung Park
+  book: IEEE Computer Architecture Letters
+  place:
+  year: 2026
+  month: June
+  venue: CAL
+  etc:
+
+- title: 'Experimental Study on System-Level Performance Impact of Read Disturbance in Modern SSDs'
+  authors: <ins>**Yonggon Park**</ins>, Hyunuk Cho, Onur Mutlu, Sungjin Lee, and Jisung Park
+  book: Proceedings of the ACM on Measurement and Analysis of Computing Systems
+  place: Ann Arbor, Michigan, USA
+  year: 2026
+  month: June
+  venue: SIGMETRICS
+  etc:
+
 - title: 'Mutation Methods for Structured Input to Enhance Path Coverage of Fuzzers'
-  authors: <ins>**Yonggon Park**</ins>, Youngjoo Ko, amd Jong Kim
-  book: Proceedings of the 24TH World Conference on Information Security Applications
+  authors: <ins>**Yonggon Park**</ins>, Youngjoo Ko, and Jong Kim
+  book: Proceedings of the 24th World Conference on Information Security Applications
   place:  Jeju Island, Korea
   year: 2023
   month: August
   venue: WISA
-  etc: 
+  etc:
